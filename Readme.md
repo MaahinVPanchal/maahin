@@ -6,13 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVpanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVpanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">Tech Stack & Tools</h3>
 
 ###
@@ -132,11 +125,28 @@
 
 ###
 
-<img align="left" height="185" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=MaahinVpanchal&theme=gruvbox&no-frame=false&no-bg=true&margin-w=5&margin-h=3" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVpanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MaahinVpanchal&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVpanchal&theme=github-dark-dimmed&area=true&hide_border=false&hide_title=false&radius=7" height="205" alt="activity-graph graph"  />
+</div>
 
 ###
 
 <p align="left">These skills have enabled me to develop a range of innovative projects, including:<br><br>🔍 Google clone using React JS.<br>📊 Financial report analyzer (balance sheets) with OpenAI integration for generating insights.<br>🤖 RAG-based chatbot for answering queries using uploaded PDFs and documents.<br>⌨️ Object detection for keyboard parts using TensorFlow and Roboflow.<br>📱 Screen crack detection model to identify damaged areas.<br>✈️ Telegram bot token integration for message delivery and automation.<br>🍽️ Food donation platform developed during my IBM internship using Django, to connect restaurants with NGOs for reducing food waste.<br>Beyond coding, I am passionate about applying AI & ML to real-world problems — from object detection and financial analysis to chatbot development and social impact initiatives. Every project I build is a step toward leveraging technology for meaningful solutions.</p>
+
+###
+
+<img align="left" height="210" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVpanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="163" alt="languages graph"  />
+</div>
 
 ###
 
