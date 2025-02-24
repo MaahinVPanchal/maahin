@@ -1,5 +1,5 @@
 <h2 align="left">My name is Maahin Panchal, and I'm a final-year engineering student at LD College of Engineering, Ahmedabad.</h2>
-
+<hr/>
 ###
 
 <p align="left">📚 I'm currently learning advanced AI and ML concepts through the Google AI Essentials course and actively participating in various AI/ML competitions on Unstop.<br>🎯 Goals: To become an AI/ML specialist and use technology to solve real-world problems.<br><br>😊 Proud runner-up at the Smart India Hackathon, where my team showcased innovative problem-solving skills to tackle complex challenges.<br><br>Currently, I am enhancing object detection systems, a project that originated from the SSIP Hackathon, where we secured INR 2,49,000 in funding for our groundbreaking ideas. Recently, I also achieved 3rd place in the Kshitij 2025 x Altair Datathon, where I built an ensemble classification model using RapidMiner and AI-driven analytics.<br><br>My technical expertise spans Python, Flask, Django, React JS, Streamlit, and tools like OpenCV, scikit-learn, TensorFlow, and LangChain. <br>🚀 Let’s connect and explore opportunities to innovate together! 😊</p>
