@@ -2,6 +2,19 @@
 
 ###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+</div>
+
+###
+
 <p align="left">📚 I'm currently learning advanced AI and ML concepts through the Google AI Essentials course and actively participating in various AI/ML competitions on Unstop.<br>🎯 Goals: To become an AI/ML specialist and use technology to solve real-world problems.<br><br>😊 Proud runner-up at the Smart India Hackathon, where my team showcased innovative problem-solving skills to tackle complex challenges.<br><br>Currently, I am enhancing object detection systems, a project that originated from the SSIP Hackathon, where we secured INR 2,49,000 in funding for our groundbreaking ideas. Recently, I also achieved 3rd place in the Kshitij 2025 x Altair Datathon, where I built an ensemble classification model using RapidMiner and AI-driven analytics.<br><br>My technical expertise spans Python, Flask, Django, React JS, Streamlit, and tools like OpenCV, scikit-learn, TensorFlow, and LangChain. <br>🚀 Let’s connect and explore opportunities to innovate together! 😊</p>
 
 ###
@@ -112,26 +125,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MaahinVpanchal&theme=gruvbox&no-frame=false&no-bg=true&margin-w=5&margin-h=3" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVpanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MaahinVpanchal&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVpanchal&theme=github-dark-dimmed&area=true&hide_border=false&hide_title=false&radius=7" height="205" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MaahinVpanchal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=5&margin-h=3" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=MaahinVpanchal&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVpanchal&theme=nightowl&area=true&hide_border=false&hide_title=false&radius=7" height="205" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -144,8 +143,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVpanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="163" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVpanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVpanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="163" alt="languages graph"  />
 </div>
 
 ###
