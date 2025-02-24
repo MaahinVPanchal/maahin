@@ -79,6 +79,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MaahinVpanchal/MaahinVpanchal/output/github-snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/MaahinVpanchal/MaahinVpanchal/output/github-snake.svg](https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake.svg)" alt="Snake animation" />
 
 ###
